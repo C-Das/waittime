@@ -30,16 +30,19 @@ penalty as set by the customer.
 * The customer should be able to review the calendar entry and then accept/reject the calendar invite if it is not an confirmed
   appointment by user using payment.
 
-###Customer Database and Reviews
+### User View
+* User should login to provide review with credential or an provide annonymously
+* User should register to pay online to the customer. They can search Customer, review customer feedback and even quickly set up
+  to accept notification by e-mail or card with a small payment even without registering.
 
-## Customer Database
+###Customer Database and Reviews/Comments
+
+## Build Customer Database
 * Application should scrape other available websites and build a customer database. Application should continuously scrape
   websites and build/improve on the customer data.
 * A data steward position should be built or review and improve the customer data
 
-
 ## User to provide customer review
-
 * Application should scrape other websites and build a cutomer review database. The review should be refeshed real time as much
 as possible and shoule be available to be viewed by any user.
 * An user should be able to provide reviews to the customer.
@@ -56,5 +59,13 @@ user wishs to provide his credentials.
 * Access reviews
 * Book appointment with a customer
 * Pay customer online.
+
+### Extended Capabilities
+
+* Customer should write his/her comments or prescriptions using the application.
+* If the user is a registered user, he/she can choose the prescriptions to be delivered at his/her place. There will be a
+  delivery cost.
+* User can get a view of all his customer(s) visit history
+
 
 
