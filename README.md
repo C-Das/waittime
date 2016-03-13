@@ -9,4 +9,8 @@ on responsive design.
      mobile or e-mail with a nominal fee (through paypal)
 * The customer should be able to review the calendar entry and then accept/reject the calendar invite.
 * When the customer accepts/rejects the invite a message will be sent to user on the status.
+* User should provide disese details while registering (PII issue)
+* Customer can ask for additional informatiom or report before the visit
+* We can process doctor's payment (Additional option)
+*
 
